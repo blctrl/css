@@ -1,0 +1,4 @@
+To launcher opi file using the command line:
+#./css --launcher.openFile /'BOY Examples/main.opi'
+%%the single quotes are required because of the space in the file name.
+%%the opi file path must be a workspace path
